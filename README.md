@@ -4,10 +4,7 @@ Checkout the working demo [here](https://rvamsikrishna.github.io/vuex-shopping-c
 
 ```
 # clone the project
-git clone https://rvamsikrishna.github.io/vuex-shopping-cart/ vuex-shopping-cart
-
-# change directory
-cd vuex-shopping-cart
+https://github.com/phungminhthien/test-shopping-cart-page
 
 # install dependencies
 npm install
